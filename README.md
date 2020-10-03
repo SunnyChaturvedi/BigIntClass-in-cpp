@@ -16,6 +16,7 @@ hence I had to wait sometime first to learn them and implement it.
 
 After learning I have implemented some basic arithmetic unary & assignment operations along with manipulation of input and output streams via Operator Overloading to take input from console directly, I have also provided functionality to directly initialise a BigInt number from a string or long long int(this automatially ensure i can take input from int directly as long long int lies up in precision diagram).
 \
-Finally I was able to calculate the extra long factorials :)
-&nbsp;
+\
+Finally I was able to calculate the extra long factorials :) \
+
 ![](demo%20gif.gif)
