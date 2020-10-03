@@ -43,4 +43,4 @@ int main(){
 
 ![](demo%20gif.gif)
 
-(Video present in Github for references)
+(Video present in Github Repo for further references)
