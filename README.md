@@ -16,7 +16,7 @@ I decided to implement some template or snippet which would make my work as simp
  -  Didn't knew about classes hence implemented separate functions for input and arithmetic .
  -  Didn't knew operator overloading therefore had to take input in a string and pass it to a function every time (O(n) space wasted :( ).
  -  Forget operator overloading, I didn't even knew about streams.
- -  Didn't knew about modular coding, hence wrote a very big single file.( i still have to use it in online platforms as they take only one file as input :( )
+ -  Didn't knew about modular coding, hence wrote a very big single file.(I still have to use it in online platforms as they take only one file as input :( )
 
 Due to my lack of knowledge of Object Oriented Principles of Design I faced many challenges, 
 hence I had to wait sometime first to learn them and implement it. 
