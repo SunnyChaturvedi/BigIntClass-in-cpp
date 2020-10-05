@@ -1,5 +1,6 @@
 # BigIntClass-in-C++
-This project was done to provide the functionality of usage of numbers having more bits than 64 (highest possible in C++) in C++.
+This project was done to provide the functionality of usage of numbers having more bits than 64 (highest possible in C++) in C++. \
+(2^64 = 18,446,744,073,709,551,616) 2^64 is order of 10 ^ 19.
 
 __Motivation__ : I happen to come across this problem in my Freshamn Year \
 https://www.hackerrank.com/challenges/extra-long-factorials/problem 
