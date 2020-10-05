@@ -41,6 +41,8 @@ int main(){
 
 &nbsp;
 
+__Demonstration__ : Printing Factorials of all numbers smaller than given input number.
+
 ![](demo%20gif.gif)
 
 (Video present in Github Repo for further references)
