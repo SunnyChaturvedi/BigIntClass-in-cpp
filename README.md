@@ -11,11 +11,17 @@ time (I was a bit noob back then).
 
 &nbsp;
 
-I decided to implement some template or snippet which would make my work as simple as its in Python.
-However due to lack of knowledge of Object Oriented Principles of Design I was unable to implement all functionalities\
+I decided to implement some template or snippet which would make my work as simple as its in Python. However I faced the challenges :
+
+ -  Didn't knew about classes hence implemented separate functions for input and arithmetic .
+ -  Didn't knew operator overloading therefore had to take input in a string and pass it to a function every time (O(n) space wasted :( ).
+ -  Forget operator overloading, I didn't even knew about streams.
+ -  Didn't knew about modular coding, hence wrote a very big single file.
+
+Due to my lack of knowledge of Object Oriented Principles of Design I faced many challenges, 
 hence I had to wait sometime first to learn them and implement it. 
 
-After learning I have implemented some basic arithmetic unary & assignment operations along with manipulation of input and output streams via Operator Overloading to take input from console directly, I have also provided functionality to directly initialise a BigInt number from a string or long long int(this automatially ensure i can take input from int directly as long long int is higher in precision and can accomodate int too).
+After learning I have implemented some basic arithmetic unary & assignment operations along with manipulation of input and output streams via Operator Overloading to take input from console directly, I have also provided functionality to directly initialize a BigInt number from a string or long long int(this automatically ensure i can take input from int directly as long long int is higher in precision and can accommodate int too).
 \
 \
 Finally I was able to calculate the extra long factorials :)  \
