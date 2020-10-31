@@ -53,3 +53,10 @@ __Demonstration__ : Printing Factorials of all numbers smaller than given input 
 ![](demo%20gif.gif)
 
 (Video present in Github Repo for further references)
+
+__Code Layout__ :
+**BigInt.h** : Contains initial declarations of BigInt class and associated variables along with member functions
+
+**BigInt.cpp** : Contains implementation of declared functions using object oriented design. All the corrressponding operaters are overloaded accordingly to enable the functionality similar to smaller integers.
+
+**main.cpp** : Code which takes input n from stdin and returns its factorial to stdout
